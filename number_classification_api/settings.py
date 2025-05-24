@@ -32,7 +32,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # SECURITY WARNING: don't run with debug turned on in production!
 # DEBUG = True
 
-ALLOWED_HOSTS = ['https://django-number-classification-api.onrender.com/']
+ALLOWED_HOSTS = ['django-number-classification-api.onrender.com/']
 
 
 # Application definition
