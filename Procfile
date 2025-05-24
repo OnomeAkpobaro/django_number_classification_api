@@ -1,1 +1,1 @@
-web: gunicorn your_project_name.wsgi
+web: gunicorn number_classification_api.wsgi
